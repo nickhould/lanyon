@@ -3,28 +3,18 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hi there! I'm Jean-Nicholas Hould. I am an entrepreneur from beautiful Montreal, Canada. I enjoy running ultramarathons and making things.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm currently working on solving data science challenges at [True Key](https://www.truekey.com). I am the creator [Bootstrappers.io](http://www.bootstrappers.io), a business bootstrapper community. I am passionate about data science, entrepreneurship and technology.
 
-There are currently two themes built on Poole:
+In the past, I've been an early employee at [PasswordBox](https://www.passwordbox.com), a password manager software company acquired by [Intel](https://www.intel.com) in 2014. At PasswordBox I worked on user acquisition, scaling the user base from a few thousands users to millions.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I'd like to learn more about how I can help you. [Email me here.](mailto:nick.hould+website@gmail.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
+- [Twitter](https://www.twitter.com/nicholashould)
+- [Github](github.com/nickhould)
+- [LinkedIn](https://www.linkedin.com/in/jean-nicholas-hould-2b820a1b)
 
-Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
